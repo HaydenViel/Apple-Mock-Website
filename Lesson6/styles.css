@@ -1,0 +1,111 @@
+.hero-section {
+  background-color: #e0ebe8;
+  padding: 50px;
+}
+
+h1 {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+}
+
+.profile-picture {
+  width: 80px;
+  height: auto;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navlinks {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+.title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.cloud-1 {
+  margin-left: 700px;
+  margin-bottom: -20px;
+}
+.cloud-2 {
+  margin-right: 700px;
+  margin-bottom: 20px;
+}
+
+.title-text {
+  text-align: center;
+}
+
+.mountain-1 {
+  margin-left: 300px;
+}
+
+.boy {
+  margin-left: 570px;
+  padding: 90px;
+}
+.about-me {
+  text-align: center;
+  padding-bottom: 300px;
+  padding-left: 600px;
+  padding-right: 600px;
+  font-size: larger;
+}
+
+.boy-image {
+  width: 150px;
+  height: auto;
+}
+
+.i-do {
+  text-align: center;
+  margin-top: -200px;
+  font-size: 300%;
+}
+
+.guy-raging {
+  display: flex;
+  flex-direction: row;
+}
+
+.sleep-guy {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.i-game {
+  padding-left: 200px;
+}
+
+.gaming {
+  padding: 100px;
+}
+
+.i-sleep {
+  padding-right: 200px;
+}
+
+.sleep {
+  padding: 100px;
+}
+
+.what {
+  text-align: center;
+}
+
+.button-1 {
+  display: flex;
+  align-items: center;
+}

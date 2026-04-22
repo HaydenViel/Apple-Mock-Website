@@ -2,3 +2,119 @@
   width: 20px;
   height: auto;
 }
+
+.hero-section {
+  background-image: url(https://www.apple.com/v/home/cf/images/heroes/iphone-family/hero_iphone_family__fuz5j2v5xx6y_small_2x.jpg);
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.learn-more {
+  border-style: hidden;
+  border-radius: 50px;
+  padding: 10px 20px 10px 20px;
+  color: aliceblue;
+}
+
+.shop-phone {
+  border-style: solid;
+  border-radius: 50px;
+  padding: 10px 20px 10px 20px;
+  border-color: rgb(101, 101, 211);
+  color: rgb(101, 101, 211);
+}
+
+.iphone-family {
+  margin-bottom: 20px;
+}
+
+.built {
+  margin: 20px;
+  background: -webkit-linear-gradient(
+    356deg,
+    #0090f7,
+    #ba62fc,
+    #f2416b,
+    #f55600
+  );
+  background: linear-gradient(94deg, #0090f7, #ba62fc, #f2416b, #f55600);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  display: inline-block;
+}
+
+.macbook-section {
+  background-image: url(https://www.apple.com/v/home/cf/images/promos/macbook-air/promo_macbook_air_avail__e8ksaudoisey_small_2x.jpg);
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 15px;
+}
+
+.learn-more-2 {
+  border-style: hidden;
+  border-radius: 50px;
+  padding: 8px 20px 8px 20px;
+  color: aliceblue;
+}
+
+.buy {
+  border-style: solid;
+  border-radius: 50px;
+  padding: 8px 20px 8px 20px;
+  border-color: rgb(101, 101, 211);
+  color: rgb(101, 101, 211);
+}
+
+.ipad-section {
+  background-image: url(https://www.apple.com/v/home/cf/images/heroes/ipad-pro/hero_ipadpro_avail__d6ddfjws77ue_small_2x.jpg);
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 15px;
+}
+
+.learn-more-2 {
+  border-style: hidden;
+  border-radius: 50px;
+  padding: 8px 20px 8px 20px;
+  color: aliceblue;
+}
+
+.buy {
+  border-style: solid;
+  border-radius: 50px;
+  padding: 8px 20px 8px 20px;
+  border-color: rgb(101, 101, 211);
+  color: rgb(101, 101, 211);
+}
+
+.watch-section {
+  background-image: url(https://www.apple.com/v/home/cf/images/promos/apple-watch-series-10/promo_apple_watch_series_10_avail_lte__c70y29goir42_medium_2x.jpg);
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 15px;
+}
+
+.trade-section {
+  background-image: url(https://www.apple.com/v/home/cf/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_medium_2x.jpg);
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 15px;
+}
+
+.column {
+  width: 30%;
+  padding: 5px;
+  display: flex;
+  align-items: flex-start;
+}
